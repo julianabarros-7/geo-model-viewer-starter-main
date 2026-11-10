@@ -2,12 +2,12 @@
 
 - **Welcome to Ohio State AR**
 
-- **Live page:
+- Live page:
 - https://julianabarros-7.github.io/geo-model-viewer-starter-main/
 - https://julianabarros-7.github.io/geo-model-viewer-starter-main/spot-1.html
 - https://julianabarros-7.github.io/geo-model-viewer-starter-main/spot-2.html
 - https://julianabarros-7.github.io/geo-model-viewer-starter-main/spot-3.html
-- https://julianabarros-7.github.io/geo-model-viewer-starter-main/spot-4.html**
+- https://julianabarros-7.github.io/geo-model-viewer-starter-main/spot-4.html
 
 - **Coordinates: (lat: 39.999689, lon: -83.01113)**
 
